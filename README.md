@@ -26,7 +26,7 @@ ___
 
 1. Run `create_folderSystem.bat` to create the directory structure.
 2. Place `rustup-init.exe` in the root folder (next to the scripts).
-3. Run `INSTALL.bat`.
+3. Change paths in `INSTALL.bat` and Run it.
 4. Extract VS Code into the `vscode` folder.
 5. Create a `data` folder inside the `vscode` folder.
 6. Run `rust_activation_enc.bat`.
